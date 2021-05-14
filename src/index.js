@@ -15,7 +15,7 @@ ReactDOM.render(
       {/* <PersistGate persistor={persistor}> */}
       <App />
       {/* </PersistGate> */}
-      //{" "}
+      {/* {" "} */}
     </Router>
     {/* // </Provider> */}
   </React.StrictMode>,
